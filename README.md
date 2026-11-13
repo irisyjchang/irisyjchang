@@ -1,15 +1,9 @@
 # Hi, I’m Iris 👋
-
 I’m an Informatics student at the University of Washington in Seattle. I’m interested in cloud solutions architecture and building tools that make research data easier to find and use.
-
 🎯 **Looking for internships in cloud, data, and software engineering.**
-
 ### 🔭 What I’m working on
-
-**[Quantum Materials Lab AI Archive](https://github.com/irisyjchang/quantum-materials-ai-archive)** — I’m organizing and validating transcriptions of lab records so researchers can find them by source, page, and sample.
-
+**[Quantum Materials Lab AI Archive](https://github.com/irisyjchang/quantum-materials-ai-archive)** — I’m leading the architecture and development of an AI-powered system that turns legacy crystal-growth records into searchable data. I translate physicists’ needs into product requirements and design the workflow from transcription and validation to search.
 ### 📂 Past projects
-
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Vera · Medic No-Code](https://github.com/NirmalKumarMari/medic-no-code-cht) | Team project for drafting, validating, and reviewing Community Health Toolkit configuration changes. [Architecture](https://github.com/NirmalKumarMari/medic-no-code-cht#architecture) · [My commits](https://github.com/NirmalKumarMari/medic-no-code-cht/commits/main/?author=irisyjchang) | TypeScript, AWS CDK, Step Functions, Bedrock |
