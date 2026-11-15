@@ -1,6 +1,6 @@
 ## Hi, I’m Iris 👋
 
-**Informatics (Data Science) @ University of Washington** · Class of 2028
+**Third-year Informatics (Data Science) student @ University of Washington** · Class of 2028
 
 I’m interested in building human-centered technology and turning user needs and business goals into practical solutions.
 
