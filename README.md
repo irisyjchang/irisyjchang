@@ -41,4 +41,4 @@ I’m interested in building human-centered technology and turning user needs an
 ### Currently
 
 - Leading architecture and development for the Quantum Materials Lab AI Archive. I translate physicists’ needs into requirements and design the workflow from transcription and validation to search.
-- Looking for **internships in cloud, data, and software engineering**.
+- Looking for **internships in product management, cloud, data, and software engineering**.
