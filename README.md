@@ -5,6 +5,8 @@
 I’m interested in **cloud solutions architecture** and building tools that make research data easier to find and use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irisyjchang/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irisyjchang@gmail.com)
+[![UW Email](https://img.shields.io/badge/UW_Email-4B2E83?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:irisyjc@uw.edu)
 
 ---
 
